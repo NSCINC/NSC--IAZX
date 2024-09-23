@@ -90,7 +90,7 @@ NSC IA X is at the cutting edge of HoloFi technology, providing a robust platfor
 
 <p>FOUNDER: LUCAS JANAURIO DO NASCIMENTO</p>
 
-<img src="B.PNG" alt="Hollow Ether Logo">
+<img src="C.PNG" alt="Hollow Ether Logo">
 
 ---
 
